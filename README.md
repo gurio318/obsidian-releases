@@ -1,4 +1,4 @@
-## About this repo
+x## About this repo
 
 This repo is used for hosting public releases of Obsidian, as well as our community plugins & themes directories.
 
